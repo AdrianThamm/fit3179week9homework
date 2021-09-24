@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Happiness Level of All Countries in 2019",
+  "title": "Happiness Level of All Countries in 2015",
   "width": 1200,
   "height": 900,
   "data": {
